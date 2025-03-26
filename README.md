@@ -1,4 +1,4 @@
-<h2 align="left">girls revolution with a twist - i am so sleep deprived</h2>
+<h2 align="left">girls revolution with a twist - idk why i'm in IT anyways</h2>
 
 ###
 
