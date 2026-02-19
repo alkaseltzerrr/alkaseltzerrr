@@ -12,7 +12,7 @@
       <td align="left" style="vertical-align: middle; padding-left: 24px;">
         <h1>Hello, I'm Hana! ⚫ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="filter: grayscale(100%)"></h1>
         <span style="font-size: 1.1em;">
-          Information Technology Major @ Cebu Institute of Technology -  University<br/>
+          Information Technology Major @ Cebu Institute of Technology -  University in my senior year HELL YEAHHHHHHHHHH<br/>
           <b>Developer</b><br/>
           <i>Girls Revolution with a twist - mindlessly coding since 2022.</i>
         </span>
