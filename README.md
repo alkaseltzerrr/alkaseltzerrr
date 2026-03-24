@@ -26,8 +26,8 @@ Currently, I'm shipping personal projects around productivity while finishing my
 ---
 
 #### Fun Facts:
-- 🐱 I am a huge cat lover and I always have room in my camera roll for cat photos.
-- ☕ Most of my serious coding gets done at night with coffee and a playlist running.
+- 🦄 I love unicorns.
+- 💻 I'm flexible with any IT tech stack, but I prefer front-end development.
 - 🧪 I enjoy turning random ideas into small experiments, then evolving the good ones into real projects.
 - ⚡ I can talk for hours about AI-driven apps, UX details, and shipping fast without sacrificing quality.
 
