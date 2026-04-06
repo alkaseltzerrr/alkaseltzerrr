@@ -17,11 +17,19 @@ Currently, I'm shipping personal projects around productivity while finishing my
 
 ### Stuff That I Worked On
 
+- [needs](https://github.com/alkaseltzerrr/needs): 🤗 Community-first app for sharing personal needs in groups, with category-based posts, neediness tracking, and responsive, animated UI.
+- [ARK-admin](https://github.com/alkaseltzerrr/ARK-admin): 🧪 Admin operations dashboard for ARK backend endpoints, including paper management and mobile sync flow validation.
 - [studytrail](https://github.com/alkaseltzerrr/studytrail): 🧭 Personalized AI-powered study planner that generates weekly plans from deadlines, priorities, and study preferences.
 - [SonicInsight](https://github.com/alkaseltzerrr/SonicInsight): 🎧 AI music lab for album analysis, lyric generation, similarity search, genre prediction, and mood-based playlist curation.
 - [KumaTime](https://github.com/alkaseltzerrr/KumaTime): ⏱️ Pomodoro productivity app with a virtual buddy, streak tracking, and gamified focus sessions.
 - [shuken-apuri](https://github.com/alkaseltzerrr/shuken-apuri): 🗂️ Kawaii flashcard app with study modes, fuzzy answer checking, and Leitner-style spaced repetition.
 - [renshuu-notesapp](https://github.com/alkaseltzerrr/renshuu-notesapp): 📝 react practice.
+
+### Significant Contributions to Team Projects
+
+- [Penguinmans32/Batibot-NotesApp](https://github.com/Penguinmans32/Batibot-NotesApp): 📝 Full-stack notes app with Google OAuth, PostgreSQL, and responsive UX where I contributed heavily across product features and implementation.
+- [karl2522/SavorSpace-Frontend](https://github.com/karl2522/SavorSpace-Frontend): 🍽️ Recipe-sharing platform frontend (React + Vite) that I significantly helped build for our system development capstone.
+- [karl2522/SavorSpace-Backend](https://github.com/karl2522/SavorSpace-Backend): ⚙️ Spring Boot backend for the same recipe-sharing platform, where I contributed to core API and platform functionality.
 
 ---
 
