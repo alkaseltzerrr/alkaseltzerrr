@@ -5,7 +5,7 @@
 
 ### Hey there! 👋
 
-I'm **Hana**, an active software engineer and QA engineer based in the Philippines.
+I'm **Hana**, an active software engineer and QA engineer based in Cebu, Philippines.
 
 I build practical, user-first web apps that serve as solutions to my own problems. I love blending **AI features** and automation into my life and the work that I do as well.
 
